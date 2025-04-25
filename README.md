@@ -1,4 +1,4 @@
-<h1 align="center">👋🏽 Hey there, I'm Linford Lee</h1>
+<h1 align="center">👋🏽 Hey there, I'm Linford</h1>
 <h3 align="center">Founder & CEO of Linfy Tech Solutions</h3>
 
 <p align="center">
@@ -59,9 +59,9 @@ Currently focused on **Data Analytics**, **Cybersecurity**, and using **AI for W
 ### 📫 Reach Me
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internetarchive&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linfordlee14.github.io/linford-musiyambodza-portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internetarchive&logoColor=white" /></a>
+  <a href="https://www.facebook.com/linford.lee.16/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/00linford14/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:linfordlee14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/linfordlee14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/linfordlee14"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
