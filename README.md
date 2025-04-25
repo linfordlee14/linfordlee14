@@ -6,7 +6,7 @@
 # Hey there, I'm Linford Lee! 👋🏾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines= Tech+Enthusiast+%7C+Cybersecurity+Learner;Data+Analyst+%7C+Backend+Developer;Founder+of+Linfy+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%7C+Cybersecurity+Learner;Data+Analyst+%7C+Backend+Developer;Founder+of+Linfy+Tech+Solutions" alt="Typing SVG" />
 </div>
 
 ---
