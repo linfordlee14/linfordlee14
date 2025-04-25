@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://cdn.openai.com/chat-assets/linfordlee-github-banner.png" alt="Linford Lee GitHub Banner" />
+</p>
+
 # Hey there, I'm Linford Lee! 👋🏾
 
 <div align="center">
@@ -80,4 +85,3 @@
 📧 **Email:** linfordlee14@gmail.com
 
 ---
-
