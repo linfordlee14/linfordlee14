@@ -6,7 +6,7 @@
 # Hey there, I'm Linford Lee! 👋🏾
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+%7C+Cybersecurity+Learner;Data+Analyst+%7C+Backend+Developer;Founder+of+Linfy+Tech+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5D4&center=true&vCenter=true&width=435&lines= Tech+Enthusiast+%7C+Cybersecurity+Learner;Data+Analyst+%7C+Backend+Developer;Founder+of+Linfy+Tech+Solutions" alt="Typing SVG" />
 </div>
 
 ---
@@ -75,10 +75,10 @@
 
 <div align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your_facebook_link_here)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your_instagram_link_here)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/linford.lee.16/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/00linford14/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linfordlee14/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your_portfolio_link_here)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://linfordlee14.github.io/linford-musiyambodza-portfolio)
 
 </div>
 
