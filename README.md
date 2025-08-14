@@ -1,79 +1,76 @@
-<h1 align="center">👋🏽 Hey there, I'm Linford</h1>
-<h3 align="center">Founder & CEO of Linfy Tech Solutions</h3>
+# 👋🏽 Hey there, I'm Linford Lee
 
-<p align="center">
-  <em>Data Analyst | Cybersecurity Enthusiast | Tech for Good Advocate</em><br>
-  <em>Building digital solutions to power people, protect data, and preserve nature.</em>
-</p>
+**Founder & CEO at Linfy Tech Solutions** | Data Analyst | Cybersecurity Enthusiast | Web Developer  
+📍 Cape Town, South Africa
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-Hi! I'm Linford, a passionate tech innovator based in Strand, Cape Town 🇿🇦.  
-Founder of **Linfy Tech Solutions**, where we mix innovation, design, and a human touch to solve real-world problems.  
-Currently focused on **Data Analytics**, **Cybersecurity**, and using **AI for Wildlife Conservation**.
-
-💡 I believe in using technology for good — from securing devices to saving rhinos.
+I'm a passionate technologist focused on **data analytics**, **cybersecurity**, **web development**, and **AI for good** — especially in wildlife conservation.  
+I founded **Linfy Tech Solutions** to deliver **smart, secure, and sustainable** digital solutions for real-world challenges.
 
 ---
 
-### 🛠️ Tech Stack
+## 🧰 Tech Stack & Tools
 
-#### 💻 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+### 🤖 AI & Generative AI
+- Generative AI (Prompt Engineering, LLMs, OpenAI, Hugging Face)
+- Machine Learning (scikit-learn, TensorFlow basics)
+- AI for Conservation (Wildlife prediction models)
+- Data Visualization (Plotly, Matplotlib, Seaborn)
 
-#### 🛡️ Cybersecurity & Networking
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BFF?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004990?style=for-the-badge&logo=nmap&logoColor=white)
+### 🧮 Data & Analytics
+- **Languages**: Python, SQL  
+- **Libraries/Tools**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- **Data Tools**: Excel, Power BI, Tableau, Jupyter Notebook, Streamlit, Google Colab
 
-#### 🌐 Web & Dev Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+### 🛡️ Cybersecurity & Networking
+- Kali Linux, Wireshark, Nmap, Burp Suite
+- Bash Scripting
+- Network Security Principles
+- Threat Analysis & Incident Response
+- Security+ (in progress), CCNA (in progress)
 
----
+### 🌐 Web Development
+- **Frontend**: HTML, HTML5, CSS, CSS3, JavaScript, Vue.js, React, TypeScript  
+- **Backend**: Firebase, Python APIs, Node.js basics
+- **Mobile/Native**: Android Studio
+- **Design Tools**: Figma, Canva
 
-### 🌟 Projects Highlight
-
-- **Save Smart App** - Android-based savings manager for financial wellness.
-- **AI Wildlife Conservation** - Predicting rhino populations using Machine Learning.
-- **Personal Finance Tracker** - Built with Python and Jupyter Notebook.
-- **Linfy Tech Support** - Human-centered tech repair & IT consulting.
-
----
-
-### 🏆 Achievements & Goals
-
-- ✅ Launched Linfy Tech Solutions
-- ✅ Completed FreeCodeCamp: Responsive Web Design
-- ✅ Built MVP for Save Smart App with a team of 4
-- 🎯 Working toward: CompTIA Security+, CCNA, AWS Cloud, Data Analyst Cert
+### 🚀 Deployment
+- GitHub Pages
+- Vercel (VSAL)
+- Render
 
 ---
 
-### 📫 Reach Me
+## 🌟 Featured Projects
 
-<p align="left">
-  <a href="https://linfordlee14.github.io/linford-musiyambodza-portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=internetarchive&logoColor=white" /></a>
-  <a href="https://www.facebook.com/linford.lee.16/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/00linford14/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:linfordlee14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/linfordlee14/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/linfordlee14"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+- **[BootBridge – ThalaLink](https://github.com/linfordlee14/ThalaLink)**: TypeScript-based link-sharing platform.
+- **[WildGuard AI – New Version](https://github.com/linfordlee14/wildguard-ai)**: AI-powered dashboard for black rhino conservation.
+- **[Save Smart App](https://github.com/linfordlee14/Save-Smart-App)**: Android app for savings tracking.
+- **[Personal Finance Tracker](https://github.com/linfordlee14/Personal_Finance_Tracer)**: Python/Jupyter Notebook finance tracking app.
+- **[Data Analytics Dashboard](https://github.com/linfordlee14/data-analytics-dashboard)**: Power BI dashboard for business metrics.
+- **[Portfolio Website](https://linfordlee14.github.io/linford-musiyambodza-portfolio)**: My personal web showcase.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linfordlee14&layout=compact&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api?username=linfordlee14&show_icons=true&theme=radical" />
-</p>
+## 💡 Motivation
+
+> “Technology is the bridge between problems and solutions.  
+> I build that bridge — secure, intelligent, and impactful — so we can walk into a better future together.”
 
 ---
 
-### 🙌🏽 Let’s Connect and Build the Future of Tech
+## 📫 Let's Connect
+
+- 🌐 [Portfolio Website](https://linfordlee14.github.io/linford-musiyambodza-portfolio)  
+- 📧 linfordlee14@gmail.com  
+- 🐦 [@linfordlee6414](https://twitter.com/linfordlee6414)  
+- 💼 [LinkedIn](https://linkedin.com/in/linfordlee14)  
+- 👨🏾‍🔬 [ORCID](https://orcid.org/0009-0006-2215-1039)
+
+---
+
+© 2025 Linford Lee — Driven by technology, guided by service.
