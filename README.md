@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Linford Musiyambodza</h1>
+<!--<h1 align="center">Hi 👋, I'm Linford Musiyambodza</h1>
 <h3 align="center">Founder & CEO of Linfy Tech Solutions | Data Analytics • Cybersecurity • Web Development</h3>
 
 <!-- Badges Row -->
