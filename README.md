@@ -1,4 +1,4 @@
-# 🚀 Linford Musiyambodza — Tech Founder | Cybersecurity | AI Engineer
+# 🚀 Linford Musiyambodza - Tech Founder | Cybersecurity | AI Engineer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=4AF626&center=true&vCenter=true&width=600&lines=Linfy+Tech+Solutions+Booting...;Founder+%7C+Cybersecurity+%7C+AI+Engineer;Building+Tech+For+Good;Transforming+Ideas+Into+Impact" />
@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://github.com/linfordlee14.png" width="160" style="border-radius:50%;" />
   
-  **"Technology isn’t just code — it’s a bridge to a smarter, safer future."**
+  **"Technology isn’t just code - it’s a bridge to a smarter, safer future."**
 </div>
 
 ---
@@ -17,7 +17,7 @@
 ## 🧠 `whoami`
 ```bash
 > Linford Musiyambodza
-> Founder & CEO — Linfy Tech Solutions
+> Founder & CEO - Linfy Tech Solutions
 > Cybersecurity Analyst | AI Engineer | Data Specialist
 > Cape Town, South Africa 🇿🇦
 ```
@@ -25,7 +25,7 @@
 ---
 
 ## 🎯 Mission
-> **To build technology that protects, empowers, and creates real-world impact — from cybersecurity to wildlife conservation AI.**
+> **To build technology that protects, empowers, and creates real-world impact - from cybersecurity to wildlife conservation AI.**
 
 ---
 
@@ -66,19 +66,19 @@
 
 # 📂 Featured Projects
 
-## 🔐 **HackPal X** — Ethical Hacking Simulator
+## 🔐 **HackPal X** - Ethical Hacking Simulator
 - React + Firebase
 - AI-generated missions
 - XP system + leaderboard
 
-## 🦏 **RhinoGuardians** — AI Poaching Prediction System
+## 🦏 **RhinoGuardians** - AI Poaching Prediction System
 - Python ML model predicting poaching risk
 - Built for wildlife conservation in Southern Africa
 
-## 🌉 **BootBridge (ThalaLink)** — Health Community Platform
+## 🌉 **BootBridge (ThalaLink)** - Health Community Platform
 - Multi-stack platform connecting patients via WhatsApp automation
 
-## 🎓 **AI StudyBuddy Pro** — AI Study Assistant
+## 🎓 **AI StudyBuddy Pro** - AI Study Assistant
 - Smart schedules, tutoring & analytics
 
 ## 💰 **Personal Finance Tracker Pro**
@@ -117,5 +117,5 @@
 
 ---
 
-**Last Updated:** December 12, 2025 — Made with 💚 from Cape Town 🇿🇦
+**Last Updated:** December 12, 2025 - Made with 💚 from Cape Town 🇿🇦
 
