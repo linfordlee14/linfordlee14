@@ -1,163 +1,121 @@
+# 🚀 Linford Musiyambodza — Tech Founder | Cybersecurity | AI Engineer
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Initialising+Linfy+Tech+Solutions...;System+Status%3A+ONLINE;Role%3A+Founder+%26+Cybersecurity+Analyst;Mission%3A+Tech+For+Good" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=4AF626&center=true&vCenter=true&width=600&lines=Linfy+Tech+Solutions+Booting...;Founder+%7C+Cybersecurity+%7C+AI+Engineer;Building+Tech+For+Good;Transforming+Ideas+Into+Impact" />
 </div>
 
 ---
 
+<div align="center">
+  <img src="https://github.com/linfordlee14.png" width="160" style="border-radius:50%;" />
+  
+  **"Technology isn’t just code — it’s a bridge to a smarter, safer future."**
+</div>
+
+---
+
+## 🧠 `whoami`
 ```bash
-linford@linfy-tech:~$ ./whoami
 > Linford Musiyambodza
-> Founder & CEO @ Linfy Tech Solutions
-> Location: Cape Town, ZA 🇿🇦
-> Status: Building AI for Conservation & Cybersecurity Solutions
-
-linford@linfy-tech:~$ cat mission.txt
-> "I believe technology is a tool for impact.
-> It's not just about writing code — it's about writing the future.
-> Every line I create is a step toward a smarter, safer, and more sustainable world."
-
-linford@linfy-tech:~$ ./list_expertise.sh
-> [✔] Penetration Testing (Kali Linux, Burp Suite, Wireshark, Nmap)
-> [✔] AI & Data Analytics (Python, Pandas, Scikit-learn, TensorFlow)
-> [✔] Full-Stack Web Development (React, FastAPI, Firebase, Supabase)
-> [✔] Wildlife Conservation AI (ML Poaching Risk Prediction)
-> [✔] Threat Analysis & Vulnerability Assessment
+> Founder & CEO — Linfy Tech Solutions
+> Cybersecurity Analyst | AI Engineer | Data Specialist
+> Cape Town, South Africa 🇿🇦
 ```
 
 ---
 
-## 🛡️ Linfy Tech Security Operations
-
-| Service | Status | Stack |
-| :--- | :--- | :--- |
-| **Web Design & Development** | 🟢 Active | React, TailwindCSS, Firebase, Vercel |
-| **Penetration Testing** | 🟢 Active | Kali Linux, Metasploit, Burp Suite, Nmap |
-| **Cybersecurity Consulting** | 🟢 Active | Threat Analysis, Vulnerability Assessment |
-| **Data Recovery** | 🟢 Active | Forensics, Secure Data Handling |
-| **AI-Powered Solutions** | 🟢 Active | Python, FastAPI, ML Models, Groq, Cerebras |
+## 🎯 Mission
+> **To build technology that protects, empowers, and creates real-world impact — from cybersecurity to wildlife conservation AI.**
 
 ---
 
-## 🧰 Tech Arsenal
+# 💼 Linfy Tech Solutions — Core Operations
 
-### 🔴 Offensive Security & Hacking
-- **Tools:** Kali Linux, Metasploit, Burp Suite, Wireshark, Nmap, sqlmap  
-- **Methodologies:** Penetration Testing, Vulnerability Assessment, Social Engineering Simulations  
-
-### 🟦 Web & Full-Stack Development
-- **Frontend:** React, Vue, TailwindCSS, HTML5, CSS3, JavaScript, TypeScript  
-- **Backend:** FastAPI, Flask, Node.js, Firebase, Supabase  
-- **Databases:** SQLite, MySQL, Firebase Realtime DB, D1 (Cloudflare)  
-- **Deployment:** Vercel, Cloudflare Workers, GitHub Pages, AWS  
-
-### 📊 Data Analytics & AI/ML
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
-- **Tools:** Jupyter Notebook, Google Colab, Streamlit, Power BI, Tableau  
-- **AI Integration:** Groq, Cerebras, OpenAI, Gemini APIs  
-
-### 🌍 Design & Collaboration
-- **Design:** Figma, Canva  
-- **Version Control:** Git, GitHub  
-- **IDEs:** VS Code, Google Colab  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,react,tailwind,html,css,javascript,typescript,fastapi,nodejs,firebase,supabase,mysql,sqlite,docker,aws,bash,kali,wireshark,nmap,figma,git" />
-</p>
+| Service | Status | Technologies |
+|--------|--------|--------------|
+| **Web Development** | 🟢 Active | React, Next.js, Tailwind, Firebase |
+| **Penetration Testing** | 🟢 Active | Kali, Burp Suite, Nmap, Metasploit |
+| **AI/ML Solutions** | 🟢 Active | Python, Scikit-learn, Groq, Cerebras |
+| **Data Analytics** | 🟢 Active | Pandas, SQL, Power BI |
+| **Cybersecurity Consulting** | 🟢 Active | Threat Modelling, Vulnerability Analysis |
 
 ---
 
-## 📂 /var/www/projects
+# 🔥 Skills & Tech Arsenal
 
-### **🔐 HackPal X**
-*Interactive Ethical Hacking Dashboard with AI-Powered Missions*
-- **Stack:** React, TailwindCSS, Firebase  
-- **Features:** Real-time hacking simulations, leaderboard, AI-generated challenges  
-- **Impact:** Educating aspiring ethical hackers in a safe environment  
-- 🔗 [View Project](https://github.com/linfordlee14)
+### 🛡️ Offensive Security
+- Kali Linux • Metasploit • Burp Suite • Wireshark • Hydra • Nmap
 
-### **🌉 BootBridge - ThalaLink**
-*Fullstack Platform for Thalassemia Patient Community*
-- **Stack:** Twilio, React, Node.js, Supabase, Python, ML  
-- **Features:** WhatsApp integration, patient networking, health tracking  
-- **Impact:** Connecting isolated patients across Southern Africa  
-- 🔗 [View Project](https://github.com/linfordlee14)
+### 🧪 AI & Machine Learning
+- Python • Pandas • TensorFlow • Scikit‑learn • FastAPI • Groq API
 
-### **🦏 RhinoGuardians - AI Poaching Risk Model**
-*ML-Powered Wildlife Conservation System*
-- **Stack:** Python, Scikit-learn, Pandas, Matplotlib, FastAPI  
-- **Features:** Real-time poaching risk prediction, geospatial analysis  
-- **Impact:** Protecting endangered Black Rhinos through predictive AI  
-- 🔗 [View Project](https://github.com/linfordlee14)
+### 🌐 Full‑Stack Web
+- React • Next.js • TailwindCSS • Node.js • Firebase • Supabase
 
-### **💰 Personal Finance Tracker**
-*Advanced Expense Analytics Tool*
-- **Stack:** Python, Jupyter Notebook, Pandas  
-- **Features:** Transaction analysis, spending forecasts, category insights  
-- **Impact:** Financial literacy through data-driven insights  
-- 🔗 [View Project](https://github.com/linfordlee14)
+### 🗄️ Databases
+- MySQL • SQLite • D1 (Cloudflare) • Firebase Realtime DB
 
-### **🤖 NecroNet - Multi-Agent AI System**
-*Advanced AI Agent Network with Groq/Cerebras Integration*
-- **Stack:** Python, Groq API, Cerebras, LangChain  
-- **Features:** Multi-agent collaboration, real-time inference, creative problem-solving  
-- **Impact:** Exploring next-gen AI systems for enterprise solutions  
-- 🔗 [View Project](https://github.com/linfordlee14)
+### 🎨 Design & Cloud
+- Figma • Canva • AWS • Vercel • Cloudflare
 
-### **📚 AI StudyBuddy Pro**
-*Personalized AI-Powered Study Planning System*
-- **Stack:** React, FastAPI, Groq, Firebase  
-- **Features:** Smart study schedules, AI tutoring, progress tracking  
-- **Impact:** Democratizing access to personalized education  
-- 🔗 [View Project](https://github.com/linfordlee14)
-
-📂 **Full Repository:** [linfordlee14 on GitHub](https://github.com/linfordlee14)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,fastapi,tailwind,html,css,javascript,typescript,nodejs,firebase,supabase,mysql,sqlite,aws,docker,git,kali,figma" />
+</div>
 
 ---
 
-## 📈 System Analytics
+# 📂 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linfordlee14&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+## 🔐 **HackPal X** — Ethical Hacking Simulator
+- React + Firebase
+- AI-generated missions
+- XP system + leaderboard
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linfordlee14&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🦏 **RhinoGuardians** — AI Poaching Prediction System
+- Python ML model predicting poaching risk
+- Built for wildlife conservation in Southern Africa
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linfordlee14&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## 🌉 **BootBridge (ThalaLink)** — Health Community Platform
+- Multi-stack platform connecting patients via WhatsApp automation
 
----
+## 🎓 **AI StudyBuddy Pro** — AI Study Assistant
+- Smart schedules, tutoring & analytics
 
-## 🔗 Command & Control
-
-```bash
-linford@linfy-tech:~$ ./connect.sh
-```
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/linfordlee14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/linfordlee14"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:linfordlee14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linfordlee14.github.io/linford-musiyambodza-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-</p>
+## 💰 **Personal Finance Tracker Pro**
+- Data-driven financial insights using Python + Pandas
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=linfordlee14&style=flat-square&color=00FF00&label=SYSTEM+ACCESS+LOG" alt="Visitor Counter" />
-</p>
+# 📊 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=linfordlee14&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=linfordlee14&theme=tokyonight&hide_border=true" width="55%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linfordlee14&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+</div>
 
-<p align="center">
+---
+
+# 🌍 Connect with Me
+<div align="center">
+  <a href="https://www.linkedin.com/in/linfordlee14"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/linfordlee14"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:linfordlee14@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linfordlee14.github.io/linford-musiyambodza-portfolio/index.html"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=linfordlee14&style=flat-square&color=4AF626&label=VISITORS" />
+</div>
+
+<div align="center">
   <strong>"Turning code into solutions that matter."</strong>
-</p>
-
-<p align="center">
-  ⭐ If you find my work valuable, consider starring my repos and connecting with me on LinkedIn!
-</p>
+</div>
 
 ---
 
-**Last Updated:** December 12, 2025 | Built with ❤️ from Cape Town, ZA 🇿🇦
+**Last Updated:** December 12, 2025 — Made with 💚 from Cape Town 🇿🇦
+
