@@ -27,7 +27,7 @@
 
 I build secure web systems, intelligent automation, and AI-driven tools with practical real-world value.
 
-My work sits at the intersection of **cybersecurity**, **data analytics**, **AI engineering**, and **software for social impact** — with a special long-term focus on **Black Rhino conservation technology**.
+My work sits at the intersection of **cybersecurity**, **data analytics**, **AI engineering**, and **software for social impact** - with a special long-term focus on **Black Rhino conservation technology**.
 
 ---
 
