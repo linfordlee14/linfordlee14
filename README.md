@@ -1,30 +1,69 @@
-# Linford Musiyambodza
+<div align="center">
 
-```text
-$ whoami
-Linford Musiyambodza — Founder, builder, and security-minded engineer
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:111827,100:22c55e&text=Linford%20Musiyambodza&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Founder%20%7C%20Cybersecurity%20%7C%20AI%20Builder&descAlignY=58" width="100%" />
 
-I build secure digital systems, intelligent automation, and mission-driven software from Cape Town, South Africa.
-As *Founder & CEO of Linfy Tech Solutions*, I work at the intersection of *web development, cybersecurity, AI, and practical impact* — building technology that protects, streamlines, and solves real problems.
+# `linfordlee14`
 
-My current focus is on *data analytics*, *white-hat cybersecurity*, and *AI systems for high-impact use cases*, with a special interest in conservation technology and *Black Rhino protection*.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=900&lines=Founder+%26+CEO+of+Linfy+Tech+Solutions;Cybersecurity-minded+Engineer;AI+Builder+for+Real-World+Impact;Building+Secure+Systems+from+Cape+Town" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/linfordlee14)
+[![Website](https://img.shields.io/badge/LinfyTech-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=22C55E)](https://linfytech.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/linfordlee14)
+[![Location](https://img.shields.io/badge/Cape%20Town-South%20Africa-111827?style=for-the-badge&logo=googlemaps&logoColor=22C55E)](#)
+
+</div>
 
 ---
 
-## Core Signal
+## `whoami`
 
-I’m interested in technology that holds up under real-world pressure — not just in demos.
+```bash
+> Linford Musiyambodza
+> Founder & CEO @ Linfy Tech Solutions
+> Security-minded engineer | AI builder | Technical founder
+> Focused on data analytics, white-hat cybersecurity, and mission-driven software
+> Building systems that protect, automate, and create impact across Africa
+```
 
-That means building:
+I build secure web systems, intelligent automation, and AI-driven tools with practical real-world value.
 
-- *Secure web platforms*
-- *AI-powered workflows*
-- *Operational automation*
-- *Cybersecurity tools and awareness systems*
-- *Mission-driven software for African contexts*
+My work sits at the intersection of **cybersecurity**, **data analytics**, **AI engineering**, and **software for social impact** — with a special long-term focus on **Black Rhino conservation technology**.
 
-I care about systems that are useful, defensible, and built with intent.
+---
+
+## Command Center
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Security
+- White-hat mindset
+- Phishing awareness systems
+- Defensive engineering
+- Practical resilience
+
+</td>
+<td width="33%" valign="top">
+
+### AI Systems
+- Intelligent automation
+- Workflow routing
+- Applied machine learning
+- Mission-focused AI builds
+
+</td>
+<td width="33%" valign="top">
+
+### Impact
+- African-first problem solving
+- Conservation technology
+- SME digital solutions
+- Useful systems over hype
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,85 +75,116 @@ I care about systems that are useful, defensible, and built with intent.
 ![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-111827?style=for-the-badge&logo=flask&logoColor=FFFFFF)
 
-### Cloud, Backend & Data
+### Backend, Cloud & Data
 ![Firebase](https://img.shields.io/badge/Firebase-111827?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111827?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
-![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=n8n&logoColor=EF6C00)
+![REST API](https://img.shields.io/badge/REST_API-111827?style=for-the-badge&logo=fastapi&logoColor=22C55E)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-111827?style=for-the-badge&logo=googleanalytics&logoColor=F59E0B)
 
-### Security & Engineering Focus
+### Security & Mission Focus
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![AI Systems](https://img.shields.io/badge/AI_Systems-111827?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-111827?style=for-the-badge&logo=googleanalytics&logoColor=E37400)
 ![IT Consulting](https://img.shields.io/badge/IT_Consulting-111827?style=for-the-badge&logo=serverfault&logoColor=FFFFFF)
+![Mission Driven](https://img.shields.io/badge/Mission_Driven-111827?style=for-the-badge&logo=target&logoColor=22C55E)
 
 ---
 
 ## Mission-Critical Projects
 
-### [wildguard_ai](https://github.com/linfordlee14/wildguard_ai)
-*Autonomous anti-poaching intelligence platform built to support wildlife protection with AI.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Designed around conservation use cases where threat detection, field awareness, and decision support matter.
-- Uses AI as an operational layer for *wildlife security*, not just reporting.
-- Aligned with my long-term interest in deploying intelligent systems for *Black Rhino protection* and broader conservation work.
+### [WildGuard AI](https://github.com/linfordlee14/wildguard_ai)
+**Autonomous anti-poaching intelligence platform**
 
-### support-ticket-router
-*AI-assisted support workflow intelligence for smarter triage and routing.*
+- Built to support wildlife protection with AI-powered detection and response
+- Focused on field awareness, threat monitoring, and conservation intelligence
+- Aligned with my long-term mission around **Black Rhino protection**
 
-- Built to reduce manual handling by classifying requests and directing them with more precision.
-- Designed around *automation-first support operations* and cleaner escalation paths.
-- Intended as a practical system for improving speed, consistency, and decision quality in technical support environments.
+</td>
+<td width="50%" valign="top">
+
+### [Support Ticket Router](https://github.com/linfordlee14/support-ticket-router)
+**AI-assisted support workflow intelligence**
+
+- Automates ticket triage, routing, and response flow
+- Designed to reduce manual handling and improve decision speed
+- Built around practical operational automation with IBM watsonx
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### PhishGuard
-*Phishing simulation and security awareness initiative focused on strengthening the human layer of defense.*
+**Phishing simulation and awareness initiative**
 
-- Built around practical attack simulation, awareness training, and user education.
-- Reflects a white-hat approach to cybersecurity: prevention, resilience, and better security habits.
-- Positioned as a flagship security initiative in active development.
+- Security-focused project built around awareness, training, and resilience
+- Reflects a prevention-first, white-hat cybersecurity mindset
+- Positioned as a flagship security build in active development
+
+</td>
+<td width="50%" valign="top">
 
 ### RhinoShield
-*Protection-focused security build centered on resilience, monitoring, and defensive system design.*
+**Protection-focused security and monitoring build**
 
-- Focused on safeguarding digital environments through stronger visibility and practical controls.
+- Centered on visibility, resilience, and defensive system design
+- Emphasizes security by structure, not just appearance
+- Part of my broader focus on secure, impact-driven engineering
 
-- Emphasizes operational security over cosmetic security.
-- Represents my broader interest in building systems that are secure by structure, not by slogan.
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Building
+## Current Objectives
 
-- AI-driven tools for *conservation intelligence*
-- Security-focused systems for *awareness, resilience, and operational defense*
-- Workflow automation that helps teams move faster without sacrificing control
-- Practical digital products through *Linfy Tech Solutions*
+- Building AI systems for **conservation intelligence**
+- Advancing toward a career in **data analytics** and **cybersecurity**
+- Designing secure tools that improve **awareness, defense, and automation**
+- Growing **Linfy Tech Solutions** through high-impact technical execution
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=linfordlee14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linfordlee14&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=linfordlee14&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=linfordlee14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linfordlee14&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+<br />
+
+<img height="170" src="https://streak-stats.demolab.com?user=linfordlee14&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
 ## Secure Comms
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/linfordlee14)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=FFFFFF)](https://linford.linfytech.xyz)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/linfordlee14)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/linfordlee14)
+[![Website](https://img.shields.io/badge/Website-LinfyTech-111827?style=for-the-badge&logo=googlechrome&logoColor=22C55E)](https://linfytech.xyz)
+[![GitHub](https://img.shields.io/badge/GitHub-linfordlee14-111827?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/linfordlee14)
+
+</div>
 
 ---
 
-## Operating Principle
+<details>
+<summary><strong>Operating Principle</strong></summary>
 
-> Build what is useful.
-> Secure what matters.
+<br />
+
+> Build what is useful.  
+> Secure what matters.  
 > Apply intelligence where it creates real leverage.
+
+</details>
+
